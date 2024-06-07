@@ -1,0 +1,18 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 28-Sept-2023, 4:26:44 pm
+    Author     : Smit Soni
+*/
+
+.bg-custom{
+    background-color: #7986cb;
+}
+
+.navbar .nav-item:hover .nav-link{
+    background-color: white;
+    color: #7986cb;
+    border-radius: 15px;
+}
